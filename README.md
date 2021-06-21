@@ -41,6 +41,8 @@ I took two different approaches. First was a machine learning approach and the o
 * The models I used were Logistic Regression and Multinomial Naive Bayes.
 * I compared the performance of both these models( after hyperparameter tuning) on the countvectorized data as well as the tf-idf vectorized data.
 * The accuracies achieved by them is as follows:
+
+
 | Model      | Countvectorizer- Testing Accuracy | Tf-idf vectorizer - Testing Accuracy   |
 | :---        |    :----:   |          ---: |
 | Logistic Regression      | 0.8773087071240105      | 0.8777484608619174   |
