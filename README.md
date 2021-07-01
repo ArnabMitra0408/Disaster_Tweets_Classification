@@ -52,9 +52,9 @@ I took two different approaches. First was a machine learning approach and the o
 * In this I created a custom LSTM as well as a custom GRU model.
 * I trained each model for 10 epochs.
 * The training accuracies and training loss are shown below:
+* 
+![image](https://user-images.githubusercontent.com/56645508/124110931-60d55a80-da86-11eb-90b2-dfc7e03ff767.png)
 
-![image](https://user-images.githubusercontent.com/56645508/122764634-4d273880-d2bd-11eb-80b2-86910adcb8e4.png)
-
-![image](https://user-images.githubusercontent.com/56645508/122764660-54e6dd00-d2bd-11eb-98cc-b05582e643c5.png)
+![image](https://user-images.githubusercontent.com/56645508/124110957-692d9580-da86-11eb-91f3-725f98714bae.png)
 
 
